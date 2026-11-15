@@ -1,0 +1,8 @@
+{
+  "name": "bazi-speak-web-pilot",
+  "version": "0.4.0-pilot",
+  "private": true,
+  "type": "module",
+  "engines": {"node": ">=20"},
+  "scripts": {"start": "node server.mjs", "test": "node --test"}
+}
